@@ -31,7 +31,9 @@ These filters were implemented as data source filters in Tableau with the follow
 
 Additional attention was given to removing duplicates and ensuring data completeness, especially for critical fields such as Invoice Number, Customer ID, and Transaction Date.
 
-*Screenshots illustrating how these filters were applied are included in the `/images` folder.*
+![Data Cleanup Documentation](Images/Data%20Cleanup%20Documentation.png)
+
+A calculated field of 'Revenue' was created in Tableau using 'Sales' and 'Unit Price' columns.
 
 ## Project Deliverables
 
