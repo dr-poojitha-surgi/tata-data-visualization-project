@@ -25,7 +25,7 @@ Excluding records where Unit Price is below $0 (to remove invalid price entries)
 All findings are presented through intuitive Tableau dashboards designed for executive-level review and decision-making.
 
 ## Repository Structure
-- [Tableau Dashboard](Data%20Visualization%20-%20Tata.tbwx): Tableau workbook file (.tbwx)
+- [Tableau Dashboard](Dashboard/Data%20Visualization%20-%20Tata.tbwx): Tableau workbook file (.tbwx)
 - [Images](Images): Dashboard screenshots and data cleanup visuals
 - [Documentation](Documentation): Documentation including data cleanup & data visualization process.
 
